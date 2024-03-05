@@ -1,0 +1,75 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  2158  100  2158    0     0   6291      0 --:--:-- --:--:-- --:--:--  6273100  2158  100  2158    0     0   6291      0 --:--:-- --:--:-- --:--:--  6273
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<script src="//images.nvidia.com/nvFrame/1.0/p/js/_libs/jquery-1.10.1-migrate.js" charset="UTF-8">/* jQuery */</script>
+<script type="text/javascript" src="/content/websidestory/gtm/nv-gtm.js">/* Google Tag Manager Helper Function */</script>
+<script src="//images.nvidia.com/nvFrame/1.0/p/js/_libs/require.js" data-main="//images.nvidia.com/nvFrame/1.0/p/config_nvidia.js?v=201312091330" charset="UTF-8">/* Require.js */</script>
+<noscript>
+<link rel="stylesheet" type="text/css" href="//images.nvidia.com/nvFrame/1.0/p/styles/nvidia/main.no-js.css?v=201311151009"/>
+</noscript>
+</head>
+<style type="text/css">
+<!--
+#licence {
+	overflow: auto;
+	visibility: visible;
+	height: 300px;
+	width: 680px;
+	color: #666666;
+	padding-right: 20px;
+}
+-->
+</style>
+<link xmlns="//www.w3.org/1999/xhtml" media="all" href="/content/DriverDownloads/includes/shared/css/NvidiaDownload.css" type="text/css" rel="stylesheet"/>
+
+
+
+
+<body>
+<div id="nv-driverdownload" class="mboxDefault"></div>
+
+
+<script>
+try{mboxDefine('nv-driverdownload','nv-driverdownload-mbox');
+}catch(e){}
+</script>
+<div style="width:940px; margin-left:20px; float:none;"><div id="sideNav"></div><div id="mainContent" style="width:100%;"></div><!-- RVC Debug BEGIN Footer  includes Sep-16-2021 -->
+<!-- RVC Debug END Footer  includes Sep-16-2021 -->
+<!-- RVC Debug Include Sep-16-2021 Google Analytics -->
+<!--<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "https://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+ try 
+ {
+   var pageTracker = _gat._getTracker("UA-21806602-1");
+   pageTracker._trackPageview();
+ } catch(err) 
+ {}
+</script>-->
+
+<!-- End of GA Code  -->
+<script type="text/javascript">try{_satellite.pageBottom();}catch(e){}</script>
+
+
+</body>
+</html>
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  2158  100  2158    0     0   7519      0 --:--:-- --:--:-- --:--:--  7493
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  2158  100  2158    0     0   9720      0 --:--:-- --:--:-- --:--:--  9720
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  8  325M    8 26.4M    0     0  94.9M      0  0:00:03 --:--:--  0:00:03 94.5M 42  325M   42  137M    0     0   107M      0  0:00:03  0:00:01  0:00:02  107M 76  325M   76  249M    0     0   109M      0  0:00:02  0:00:02 --:--:--  109M100  325M  100  325M    0     0   106M      0  0:00:03  0:00:03 --:--:--  106M
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  5  325M    5 17.7M    0     0  86.5M      0  0:00:03 --:--:--  0:00:03 86.0M 39  325M   39  129M    0     0   107M      0  0:00:03  0:00:01  0:00:02  107M 70  325M   70  228M    0     0   103M      0  0:00:03  0:00:02  0:00:01  103M100  325M  100  325M    0     0   104M      0  0:00:03  0:00:03 --:--:--  104M
