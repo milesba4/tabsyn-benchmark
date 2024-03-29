@@ -1,0 +1,510 @@
+{
+    "name": "cmc_dataset",
+    "task_type": "binclass",
+    "header": "infer",
+    "column_names": [
+        "Reference year",
+        "Administrative area province code",
+        "Administrative area city/district code",
+        "Administrative area town/village code",
+        "Gender code of business representative",
+        "Year of establishment",
+        "Month of establishment",
+        "Organizational form code",
+        "Primary industry classification code",
+        "Sub-industry classification code",
+        "Number of male regular employees surveyed",
+        "Number of female regular employees surveyed",
+        "Total number of regular employees surveyed",
+        "Annual wages of regular employees surveyed",
+        "Number of male temporary workers surveyed",
+        "Number of female temporary workers surveyed",
+        "Total number of temporary workers surveyed",
+        "Annual wages of temporary workers surveyed",
+        "Number of male self-employed surveyed",
+        "Number of female self-employed surveyed",
+        "Total number of self-employed surveyed",
+        "Number of male unpaid family workers surveyed",
+        "Number of female unpaid family workers surveyed",
+        "Total number of unpaid family workers surveyed",
+        "Number of male workers surveyed in other categories",
+        "Number of female workers surveyed in other categories",
+        "Total number of workers surveyed in other categories",
+        "Total number of male workers",
+        "Total number of female workers",
+        "Total number of workers",
+        "Total annual wages",
+        "Number of months in operation per year",
+        "Code for regular business closure days",
+        "Revenue",
+        "Revenue from primary business",
+        "Revenue from non-primary business",
+        "Operating expenses",
+        "Rent",
+        "Advertising and publicity expenses",
+        "Operating profit",
+        "Total building area",
+        "Code for average daily operating hours",
+        "Existence of online shopping transactions",
+        "Ratio of online shopping transaction revenue to total revenue",
+        "Utilization of digital platforms",
+        "Adoption of unmanned payment terminals",
+        "Presence of seats",
+        "Number of seats",
+        "Existence of delivery and courier sales"
+    ],
+    "num_col_idx": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+    ],
+    "cat_col_idx": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        32,
+        41
+    ],
+    "target_col_idx": [
+        48
+    ],
+    "file_type": "csv",
+    "data_path": "data/cmc_dataset/cmc_dataset.csv",
+    "test_path": null,
+    "column_info": {
+        "10": {},
+        "type": "categorical",
+        "max": 2.0,
+        "min": 1.0,
+        "11": {},
+        "12": {},
+        "13": {},
+        "14": {},
+        "15": {},
+        "16": {},
+        "17": {},
+        "18": {},
+        "19": {},
+        "20": {},
+        "21": {},
+        "22": {},
+        "23": {},
+        "24": {},
+        "25": {},
+        "26": {},
+        "27": {},
+        "28": {},
+        "29": {},
+        "30": {},
+        "31": {},
+        "33": {},
+        "34": {},
+        "35": {},
+        "36": {},
+        "37": {},
+        "38": {},
+        "39": {},
+        "40": {},
+        "42": {},
+        "43": {},
+        "44": {},
+        "45": {},
+        "46": {},
+        "47": {},
+        "48": {},
+        "0": {},
+        "categorizes": [
+            1,
+            2
+        ],
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {},
+        "6": {},
+        "7": {},
+        "9": {},
+        "32": {},
+        "41": {}
+    },
+    "train_num": 89568,
+    "test_num": 9952,
+    "idx_mapping": {
+        "0": 37,
+        "1": 38,
+        "2": 39,
+        "3": 40,
+        "4": 41,
+        "5": 42,
+        "6": 43,
+        "7": 44,
+        "8": 48,
+        "9": 45,
+        "10": 0,
+        "11": 1,
+        "12": 2,
+        "13": 3,
+        "14": 4,
+        "15": 5,
+        "16": 6,
+        "17": 7,
+        "18": 8,
+        "19": 9,
+        "20": 10,
+        "21": 11,
+        "22": 12,
+        "23": 13,
+        "24": 14,
+        "25": 15,
+        "26": 16,
+        "27": 17,
+        "28": 18,
+        "29": 19,
+        "30": 20,
+        "31": 21,
+        "32": 46,
+        "33": 22,
+        "34": 23,
+        "35": 24,
+        "36": 25,
+        "37": 26,
+        "38": 27,
+        "39": 28,
+        "40": 29,
+        "41": 47,
+        "42": 30,
+        "43": 31,
+        "44": 32,
+        "45": 33,
+        "46": 34,
+        "47": 35,
+        "48": 36
+    },
+    "inverse_idx_mapping": {
+        "37": 0,
+        "38": 1,
+        "39": 2,
+        "40": 3,
+        "41": 4,
+        "42": 5,
+        "43": 6,
+        "44": 7,
+        "48": 8,
+        "45": 9,
+        "0": 10,
+        "1": 11,
+        "2": 12,
+        "3": 13,
+        "4": 14,
+        "5": 15,
+        "6": 16,
+        "7": 17,
+        "8": 18,
+        "9": 19,
+        "10": 20,
+        "11": 21,
+        "12": 22,
+        "13": 23,
+        "14": 24,
+        "15": 25,
+        "16": 26,
+        "17": 27,
+        "18": 28,
+        "19": 29,
+        "20": 30,
+        "21": 31,
+        "46": 32,
+        "22": 33,
+        "23": 34,
+        "24": 35,
+        "25": 36,
+        "26": 37,
+        "27": 38,
+        "28": 39,
+        "29": 40,
+        "47": 41,
+        "30": 42,
+        "31": 43,
+        "32": 44,
+        "33": 45,
+        "34": 46,
+        "35": 47,
+        "36": 48
+    },
+    "idx_name_mapping": {
+        "0": "Reference year",
+        "1": "Administrative area province code",
+        "2": "Administrative area city/district code",
+        "3": "Administrative area town/village code",
+        "4": "Gender code of business representative",
+        "5": "Year of establishment",
+        "6": "Month of establishment",
+        "7": "Organizational form code",
+        "8": "Primary industry classification code",
+        "9": "Sub-industry classification code",
+        "10": "Number of male regular employees surveyed",
+        "11": "Number of female regular employees surveyed",
+        "12": "Total number of regular employees surveyed",
+        "13": "Annual wages of regular employees surveyed",
+        "14": "Number of male temporary workers surveyed",
+        "15": "Number of female temporary workers surveyed",
+        "16": "Total number of temporary workers surveyed",
+        "17": "Annual wages of temporary workers surveyed",
+        "18": "Number of male self-employed surveyed",
+        "19": "Number of female self-employed surveyed",
+        "20": "Total number of self-employed surveyed",
+        "21": "Number of male unpaid family workers surveyed",
+        "22": "Number of female unpaid family workers surveyed",
+        "23": "Total number of unpaid family workers surveyed",
+        "24": "Number of male workers surveyed in other categories",
+        "25": "Number of female workers surveyed in other categories",
+        "26": "Total number of workers surveyed in other categories",
+        "27": "Total number of male workers",
+        "28": "Total number of female workers",
+        "29": "Total number of workers",
+        "30": "Total annual wages",
+        "31": "Number of months in operation per year",
+        "32": "Code for regular business closure days",
+        "33": "Revenue",
+        "34": "Revenue from primary business",
+        "35": "Revenue from non-primary business",
+        "36": "Operating expenses",
+        "37": "Rent",
+        "38": "Advertising and publicity expenses",
+        "39": "Operating profit",
+        "40": "Total building area",
+        "41": "Code for average daily operating hours",
+        "42": "Existence of online shopping transactions",
+        "43": "Ratio of online shopping transaction revenue to total revenue",
+        "44": "Utilization of digital platforms",
+        "45": "Adoption of unmanned payment terminals",
+        "46": "Presence of seats",
+        "47": "Number of seats",
+        "48": "Existence of delivery and courier sales"
+    },
+    "metadata": {
+        "columns": {
+            "10": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "11": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "12": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "13": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "14": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "15": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "16": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "17": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "18": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "19": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "20": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "21": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "22": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "23": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "24": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "25": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "26": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "27": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "28": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "29": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "30": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "31": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "33": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "34": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "35": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "36": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "37": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "38": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "39": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "40": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "42": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "43": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "44": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "45": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "46": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "47": {
+                "sdtype": "numerical",
+                "computer_representation": "Float"
+            },
+            "48": {
+                "sdtype": "categorical"
+            },
+            "0": {
+                "sdtype": "categorical"
+            },
+            "1": {
+                "sdtype": "categorical"
+            },
+            "2": {
+                "sdtype": "categorical"
+            },
+            "3": {
+                "sdtype": "categorical"
+            },
+            "4": {
+                "sdtype": "categorical"
+            },
+            "5": {
+                "sdtype": "categorical"
+            },
+            "6": {
+                "sdtype": "categorical"
+            },
+            "7": {
+                "sdtype": "categorical"
+            },
+            "9": {
+                "sdtype": "categorical"
+            },
+            "32": {
+                "sdtype": "categorical"
+            },
+            "41": {
+                "sdtype": "categorical"
+            }
+        }
+    }
+}

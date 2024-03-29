@@ -35,6 +35,7 @@ def get_args():
     parser.add_argument('--method', type=str, default='tabsyn', help='Method: tabsyn or baseline.')
     parser.add_argument('--gpu', type=int, default=0, help='GPU index.')
 
+    parser.add_argument('--device', type=str, default='cpu', help='Device to use: "cpu" or "cuda"')
 
     ''' configs for CTGAN '''
 
